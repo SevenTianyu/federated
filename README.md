@@ -1,3 +1,4 @@
+# 文献【36】《GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS》
 # Federated Research
 
 Federated Research is a collection of research projects related to
